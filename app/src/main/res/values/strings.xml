@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="login">Login</string>
+    <string-array name="lomba">
+        <item>Menyanyi</item>
+        <item>Melukis</item>
+        <item>Baca puisi</item>
+    </string-array>
+
+</resources>

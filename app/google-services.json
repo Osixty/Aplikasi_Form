@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885182405244",
+    "project_id": "fir-auth-cfe0f",
+    "storage_bucket": "fir-auth-cfe0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885182405244:android:9e0cbf550cd34ab30387f9",
+        "android_client_info": {
+          "package_name": "com.zidan.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885182405244-imo4nteo5gtknia3905op3icp79uqm2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnlRyuljZTrygZbBwAEnUbsQcaDVelSLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885182405244-imo4nteo5gtknia3905op3icp79uqm2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

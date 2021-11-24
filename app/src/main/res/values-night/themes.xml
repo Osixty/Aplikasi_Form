@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FirebaseAuth" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnSecondary</item>
+        <!-- Customize your theme here. -->
+        <item name="textBackground">@style/text</item>
+    </style>
+    <style name="background">
+        <item name="android:backgroundTint">@color/black</item>
+    </style>
+    <style name="text">
+        <item name="android:text">Log In</item>
+    </style>
+    <style name="textregister">
+        <item name="android:text">Register</item>
+    </style>
+
+
+</resources>
